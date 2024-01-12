@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Intro image](r_python.png)
+![Intro image](r_python.jpg)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
